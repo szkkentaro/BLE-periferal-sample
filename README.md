@@ -26,4 +26,5 @@ http://docs.platformio.org/en/latest/ide/vscode.html
 ## Ref
 
 If you need BLE scan sample, You can see below.
+
 https://github.com/szkkentaro/BLE-scan-sample
